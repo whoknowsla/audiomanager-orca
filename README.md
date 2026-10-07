@@ -5,6 +5,7 @@ as an Orca user extension on top of PipeWire and WirePlumber.
 
 - Version: 0.1.0
 - Author: Deniz Aygun
+- License: MIT
 - Targets: Orca 51 (user extension API), PipeWire 1.x, WirePlumber 0.5
 
 ## What it does
@@ -191,3 +192,7 @@ stub backend. They do not touch the running audio graph.
 Interaction model and feature set from the NVDA Audio Manager add-on by
 huaiyinfeilong. This is an independent Linux implementation for Orca; no code
 from the original add-on is used.
+
+## License
+
+Released under the MIT License. See [LICENSE](LICENSE).
